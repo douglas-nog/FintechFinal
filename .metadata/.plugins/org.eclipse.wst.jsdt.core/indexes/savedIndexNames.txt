@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\dougl\OneDrive\Área de Trabalho\newFintech2.0\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+656811504.index
+1109350302.index
+2164138041.index
+3881774558.index
+2252935481.index
+1892521177.index
